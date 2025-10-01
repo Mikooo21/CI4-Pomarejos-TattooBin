@@ -4,22 +4,21 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Mikooo21/CI4-Pomarejos-TattooBin.git">
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
-  <h3 align="center">AD - CI4 Template</h3>
+  <h3 align="center">CI4-Pomarejos-TattooParlor</h3>
 </div>
 
 <!-- * Description Section -->
 <div align="center">
-This repository is a beginner-friendly CodeIgniter 4 template.  
-It helps teams quickly bootstrap backend + frontend projects, with simple sample modules that show how to extend the system.
+A website where you can schedule a tattoo. It includes custom request, suggestions and prices.
 </div>
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
+![](https://visit-counter.vercel.app/counter.png?page=https:/github.com/Mikooo21/CI4-Pomarejos-TattooBin.git)
 
 <!-- ! Make sure it was similar to your github -->
 
